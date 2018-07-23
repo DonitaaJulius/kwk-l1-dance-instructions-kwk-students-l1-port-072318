@@ -13,6 +13,7 @@ end
 
 def step_right
   puts "Lower right foot to the ground"
+  puts "Bounce right foot back up slightly, kicking it a few inches back"
   puts ""
   
 
