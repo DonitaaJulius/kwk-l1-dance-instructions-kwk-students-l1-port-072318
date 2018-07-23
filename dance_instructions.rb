@@ -4,6 +4,7 @@ def stance
 end 
 
 def base 
+  puts "Lift right foot"
   puts ""
 def reins 
   puts "Holding your arms out in front of you, straight and at         chest level"
