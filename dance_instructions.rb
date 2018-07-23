@@ -33,7 +33,6 @@ end
 
 stance 
 base
-
 reins
 step_right
 reins
