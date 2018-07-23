@@ -12,6 +12,7 @@ def step_left
 end 
 
 def step_right
+  puts "Lower right foot to the ground"
   puts ""
   
 
