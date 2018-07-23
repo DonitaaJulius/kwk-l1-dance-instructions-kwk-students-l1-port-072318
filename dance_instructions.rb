@@ -1,2 +1,2 @@
-def gangam_style
-  put 
+def lasso
+  put ""
