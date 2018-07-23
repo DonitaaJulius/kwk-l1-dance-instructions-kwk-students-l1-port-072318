@@ -6,7 +6,8 @@ end
 def base 
   puts "Lift right foot"
   puts "Return right foot to the ground"
-  puts ""
+  puts "Finishing with a small skip-step backward"
+end 
 def reins 
   puts "Holding your arms out in front of you, straight and at         chest level"
 puts "Cross your right wrist over your left and hold them together"
@@ -29,6 +30,9 @@ def step_right
 def lasso
   put "Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left."
 end 
+
+stance 
+base
 
 reins
 step_right
