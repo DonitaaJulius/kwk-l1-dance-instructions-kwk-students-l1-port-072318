@@ -5,6 +5,7 @@ end
 
 def base 
   puts "Lift right foot"
+  puts "Return right foot to the ground"
   puts ""
 def reins 
   puts "Holding your arms out in front of you, straight and at         chest level"
